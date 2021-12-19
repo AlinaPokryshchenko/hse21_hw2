@@ -8,4 +8,3 @@
 #### Белков аннотированных с помощью БД SwissPro - 52
 ## Ссылка на 2 Google Colab: создание аннотированного генома бактерии в формате GenBank
 ### https://colab.research.google.com/drive/1T4BDWTbSl-X_5HwjLjE4Emv-Qsnr7G1Q?usp=sharing
-##
